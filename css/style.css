@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+}
+.main-img{
+   width: 100%;
+}
+.custom-btn{
+   background-color: #F53838;
+   color: #fff; 
+   border: none; 
+   border-radius: 4px; 
+  
+}
+.custom-btn-2{
+   
+    
+    border-color: #F53838; 
+    border-radius: 15px; /* Adjust the border-radius for a slightly rounded appearance */
+    padding: 10px 50px; /* Adjust the padding for the button size */
+    font-size: medium;
+   
+ }
+ .custom-select-button{
+    color: #F53838;
+ }
+ .custom-btn-3{
+   
+    
+background-color: #F53838;
+    border-radius: 15px; /* Adjust the border-radius for a slightly rounded appearance */
+    padding: 10px 50px; /* Adjust the padding for the button size */
+    font-size: medium;
+   
+ }
+ .custom-select-button-1{
+    color: #fff;
+ }
+.custom-signup-button{
+   color: #F53838;
+}
+.custom-sign-up{
+   color: #F53838;
+   border-radius: 5px;
+   border-color: #F53838;
+  
+}
+.jumbotron{
+   background: #FFFFFF;
+   border-radius: 10px;
+}
+.jumbotron_plan{
+   background: #FFFFFF;
+   border: 2px solid #DDDDDD;
+   border-radius: 15px;
+}
+
+.jumbotron_plan-1{
+   background: #FFFFFF;
+   border: 2px solid #F53838;
+   border-radius: 15px;
+}
+ .shadow {
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Adjust shadow properties as needed */
+}
+.card{
+   border: 1px solid #DDDDDD;
+   border-radius: 10px;
+}
+@media (max-width: 576px) {
+
+   .container{
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+    flex-direction: column;
+    margin-left: 0 ;
+
+   }
+ 
+}
+   
+ 
+
